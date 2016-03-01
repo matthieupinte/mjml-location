@@ -72,7 +72,7 @@ class Location extends Component {
           <MjText
             {...attrs.text}
             align="center">
-            <a style={styles.text} href={address}>{text}</a>
+            <a style={styles.text} href={address} target="_blank">{text}</a>
           </MjText>
         </tbody>
       </table>
