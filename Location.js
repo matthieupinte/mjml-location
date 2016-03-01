@@ -80,5 +80,5 @@ class Location extends Component {
   }
 }
 
-registerElement('location', Location)
+registerElement('location', Location, { endingTags: true })
 export default Location

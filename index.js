@@ -8,7 +8,7 @@ import mjml from '../mjml/lib'
 const htmlOutput = mjml.mjml2html(`<mj-body>
   <mj-section>
     <mj-column width="50%">
-      <mj-location address="37bis, Rue du Sentier, 75002 Paris, France" text="Chez moi" />
+      <mj-location address="37bis, Rue du Sentier, 75002 Paris, France" />
     </mj-column>
   </mj-section>
 </mj-body>
