@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # mjml-table
 mjml table component
 
@@ -27,3 +28,7 @@ mjml table component
   </mj-section>
 </mj-body>
 ```
+=======
+# mjml-location
+mjml location component
+>>>>>>> 060bc36751519e1df8d033a5f0f8c59bead0c6d8
